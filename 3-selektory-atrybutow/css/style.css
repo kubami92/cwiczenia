@@ -1,0 +1,21 @@
+[title] {
+    color: red;
+}
+
+[title="portfolio"] {
+    color: violet;
+}
+[title*="o-mnie"] {
+    background-color: aqua;
+}
+
+[title^="wiecej"] {
+    font-size: 32px;
+    color: lime;
+}
+
+[title$="wiecej"] {
+    font-size: 32px;
+    color: yellow;
+}
+
